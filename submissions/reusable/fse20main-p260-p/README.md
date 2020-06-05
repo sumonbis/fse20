@@ -13,7 +13,7 @@ Follow the [instructions](INSTALL.md) to setup environment, run the source code,
 For any concerns contact the authors Sumon Biswas [sumon@iastate.edu] or Hridesh Rajan [hridesh@iastate.edu]. For more information [click here](CONTACT.md).
 
 ## License
-The code is licensed under [MIT License](/LICENSE.md): Copyright (c) 2020 FSE_ML_Fairness
+The code is licensed under [MIT License](LICENSE.md): Copyright (c) 2020 FSE_ML_Fairness
 
 ## DOI
 [![DOI](https://zenodo.org/badge/269506778.svg)](https://zenodo.org/badge/latestdoi/269506778)
