@@ -1,5 +1,5 @@
 # ML-Fairness
-This repository contains the source code and data used for the [paper](/ml-fairness.pdf), to be appeared at ESEC/FSE 2020.
+This repository contains the source code and data used for the [paper](ml-fairness.pdf), to be appeared at ESEC/FSE 2020.
 
 ## Do the Machine Learning Models on a Crowd Sourced Platform Exhibit Bias? An Empirical Study on Model Fairness
 
