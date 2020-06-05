@@ -75,4 +75,4 @@ All the results presented in the paper are stored in multiple sheets of this exc
 
 Follow the [Execution](#execution) or [Usage example](#usage-example) to generate/update results into `ML-Fairness/src/models/titanic/all-model.csv`. Validate this result in this file with the `all-result` sheet of the excel file. Note that, the results presented in the excel file are produced after running each of the models multiple times. So, result might differ very slightly after decimal point.
 
-All the tables and figures in the paper are generated from the following sheets of the excel file: `all-result`, `table-2`, `figure-3`, `figure-4`, `figure-8`, `figure-9`. The data in the following sheets are obtained from the master sheet `all-result`.
+All the tables and figures in the paper are generated from the following sheets of the excel file: `all-result`, `table-2`, `figure-3`, `figure-4`, `figure-8`, `figure-9`. The data in the following sheets are obtained from the master sheet `all-result`. 
